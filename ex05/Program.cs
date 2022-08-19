@@ -7,8 +7,13 @@ namespace ex5 // Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             Console.WriteLine("Informe um número para calcular a sequencia de Fibonacci: ");
-            int x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(fibonacciN(x));
+            int nEsimo = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("A sequencia de Fibonacci do número digitado é: ");
+
+             
+                for (int i = 0; i < nEsimo; i++){
+                    Console.WriteLine(fibonacciN(i));
+                }
         }
 
         static int fibonacciN(int x){
@@ -22,9 +27,8 @@ namespace ex5 // Note: actual namespace depends on the project name.
 
         }else{
         return fibonacciN(x-1) + fibonacciN(x-2);
-       
-   }
-}
+       }
     }
+ }
 }
 
