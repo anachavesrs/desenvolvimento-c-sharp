@@ -1,0 +1,15 @@
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\bin\Debug\net6.0\lista3.exe
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\bin\Debug\net6.0\lista3.deps.json
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\bin\Debug\net6.0\lista3.runtimeconfig.json
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\bin\Debug\net6.0\lista3.dll
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\bin\Debug\net6.0\lista3.pdb
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.csproj.AssemblyReference.cache
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.AssemblyInfoInputs.cache
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.AssemblyInfo.cs
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.csproj.CoreCompileInputs.cache
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.dll
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\refint\lista3.dll
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.pdb
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\lista3.genruntimeconfig.cache
+C:\Users\annag\OneDrive\Documentos\GitHub\desenvolvimento-c-sharp\lista3\obj\Debug\net6.0\ref\lista3.dll
