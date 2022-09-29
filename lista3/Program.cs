@@ -1,4 +1,4 @@
-﻿using Internal;
+﻿using System;	
 /*
 	Curitiba, 2022/1
 	Universidade Positivo
