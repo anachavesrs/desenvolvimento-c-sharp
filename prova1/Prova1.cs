@@ -222,16 +222,23 @@ namespace Prova1
 					if ( bloco.NumeroQuiosques <= 2 && quiosque.ServeBebida == true && bloco.AlimentoPreferido == "Bebida" && quiosque.Horario == bloco.Horario)
 					{
 						Alocacoes.Add(new Alocacao(quiosque.Empresa, bloco.Cor));
+						bloco.NumeroQuiosques++;
+						break;
 						
 					}
 					else if ( bloco.NumeroQuiosques <= 2 && quiosque.ServeSalgado == true && bloco.AlimentoPreferido == "Salgado" && quiosque.Horario == bloco.Horario)
 					{
 						Alocacoes.Add(new Alocacao(quiosque.Empresa, bloco.Cor));
+						bloco.NumeroQuiosques++;
+						break;
 	
 					}
 					else if ( bloco.NumeroQuiosques <= 2 && quiosque.ServeDoce == true && bloco.AlimentoPreferido == "Doce" && quiosque.Horario == bloco.Horario)
 					{
 						Alocacoes.Add(new Alocacao(quiosque.Empresa, bloco.Cor));
+						bloco.NumeroQuiosques++;
+						break;
+						
 					
 					}
 
